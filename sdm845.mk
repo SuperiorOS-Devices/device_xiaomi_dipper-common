@@ -302,8 +302,8 @@ PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
 
 # ThermalController app
-PRODUCT_PACKAGES += \
-    ThermalController
+#PRODUCT_PACKAGES += \
+#    ThermalController
 
 # USB
 PRODUCT_PACKAGES += \
